@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OCR from Image URL</title>
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@2.0.0-alpha.3/dist/tesseract.min.js"></script>
+</head>
+
+<body>
+    <h1>Extract Text from Image URL</h1>
+    <input type="text" id="image-url" placeholder="Enter image URL" />
+    <button onclick="extractText()">Extract Text</button>
+    <div id="result"></div>
+
+    <script>
+        function extractText() {
+            const imageUrl = document.getElementById("image-url").value;
+            const resultDiv = document.getElementById("result");
+
+            // Kiểm tra xem URL có hợp lệ không
+            if (!imageUrl) {
+                resultDiv.innerHTML = 'Please enter a valid image URL.';
+                return;
+            }
+
+            // Hiển thị thông báo đang xử lý
+            resultDiv.innerHTML = 'Processing...';
+
+            // Sử dụng Tesseract.js để nhận diện văn bản từ ảnh
+            Tesseract.recognize(
+                imageUrl, // URL của ảnh
+                'eng', // Ngôn ngữ nhận diện (có thể thay đổi thành 'vie' cho tiếng Việt)
+                {
+                    logger: (m) => console.log(m), // In ra quá trình nhận diện
+                }
+            ).then(({ data: { text } }) => {
+                // Hiển thị kết quả nhận diện văn bản
+                resultDiv.innerHTML = 'Recognized text: ' + text;
+            }).catch((error) => {
+                // Hiển thị lỗi nếu có
+                resultDiv.innerHTML = 'Error: ' + error.message;
+            });
+        }
+    </script>
+</body>
+
+</html>
