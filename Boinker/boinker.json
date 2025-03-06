@@ -1,11 +1,13 @@
 {
     "Mua Script tại": "https://app.gpmautomate.com/store/huyen-vi-airdrop",
     "Liên hệ": "https://www.facebook.com/Huynh.Huynh.02/",
+    "Tele": "@mavantai_deptrai",
     "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
     "Count_Evnet": 2,
     "Evnet_1": "//img[contains(@src, 'Relics/c018v2.png')]",
     "Evnet_2": "(//img[contains(@src, 'arrows.png')])[2]",
     "Evnet_3": "//img[contains(@src, 'deptraicogisai222.png')]",
     "Evnet_4": "//img[contains(@src, 'xinhgainhungkhongdedai123.png')]",
+    "Evnet_5": "Có những thập kỷ trôi qua mà chẳng có điều gì xảy ra. Lại có những tuần lễ mà như hàng thập kỷ diễn ra",
     "hahahahhahahah": 33270
 }
