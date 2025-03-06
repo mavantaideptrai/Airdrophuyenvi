@@ -5,5 +5,7 @@
     "Count_Evnet": 2,
     "Evnet_1": "//img[contains(@src, 'Relics/c018v2.png')]",
     "Evnet_2": "//img[contains(@src, 'arrows.png')]",
+    "Evnet_3": "//img[contains(@src, 'deptraicogisai222.png')]",
+    "Evnet_4": "//img[contains(@src, 'xinhgainhungkhongdedai123.png')]",
     "hahahahhahahah": 33270
 }
