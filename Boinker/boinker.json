@@ -5,7 +5,7 @@
     "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
     "Count_Evnet": 2,
     "Evnet_1": "//img[contains(@src, 'LiveOps/Gae46/dc4to6.png')]",
-    "Evnet_1_1": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@disabled)]",
+    "Evnet_1_1": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@disabled) and not(contains(., '$'))]",
     "Evnet_2": "(//img[contains(@src, 'arrows.png')])[2]",
     "Evnet_2_2": "//div[contains(@class, 'main-label') and contains(@class, 'shadow') and contains(@class, 'flex-row') and not(contains(@class, 'locked'))] /span[text()='FREE']",
     "Evnet_3": "//img[contains(@src, 'deptraicogisai222.png')]",
