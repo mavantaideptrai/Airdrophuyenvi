@@ -5,7 +5,7 @@
     "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
     "Checked": "1",
     "Code_SCR": "102",
-    "9": "1111111111111111111111111111111111111111111111111111111111",
+    "9": "00",
     "Count_Evnet": 2,
     "Evnet_1": "//img[contains(@src, 'LiveOps/Gae46/dc4to6.png')]",
     "Evnet_1_1": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@disabled) and not(contains(., '$'))]",
@@ -14,6 +14,6 @@
     "Evnet_3": "//img[contains(@src, 'deptraicogisai222.png')]",
     "Evnet_4": "//img[contains(@src, 'xinhgainhungkhongdedai123.png')]",
     "Evnet_5": "Có những thập kỷ trôi qua mà chẳng có điều gì xảy ra. Lại có những tuần lễ mà như hàng thập kỷ diễn ra",
-    "99": "1111111111111111111111111111111111111111111111111111111111",
+    "99": "00",
     "hahahahhahahah": 33270
 }
