@@ -3,6 +3,9 @@
     "Liên hệ": "https://www.facebook.com/Huynh.Huynh.02/",
     "Tele": "@mavantai_deptrai",
     "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
+    "Checked": "on",
+    "Code": "102",
+    "9": "___________________________________________________________________________________________________________________________",
     "Count_Evnet": 2,
     "Evnet_1": "//img[contains(@src, 'LiveOps/Gae46/dc4to6.png')]",
     "Evnet_1_1": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@disabled) and not(contains(., '$'))]",
@@ -11,6 +14,6 @@
     "Evnet_3": "//img[contains(@src, 'deptraicogisai222.png')]",
     "Evnet_4": "//img[contains(@src, 'xinhgainhungkhongdedai123.png')]",
     "Evnet_5": "Có những thập kỷ trôi qua mà chẳng có điều gì xảy ra. Lại có những tuần lễ mà như hàng thập kỷ diễn ra",
-    "1234512345": "___________________________________________________________________________________________________________________________",
+    "99": "___________________________________________________________________________________________________________________________",
     "hahahahhahahah": 33270
 }
