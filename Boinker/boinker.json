@@ -16,6 +16,7 @@
     "Evnet_4": "//img[contains(@src, 'xinhgainhungkhongdedai123.png')]",
     "Evnet_5": "//img[contains(@src, 'deptraicogisai222.png')]",
     "Evnet_6": "Có những thập kỷ trôi qua mà chẳng có điều gì xảy ra. Lại có những tuần lễ mà như hàng thập kỷ diễn ra",
+    "bnt_close":"//button[@class='btn-icon popup-close']",
     "999": "00",
     "hahahahhahahah": 33270
 }
