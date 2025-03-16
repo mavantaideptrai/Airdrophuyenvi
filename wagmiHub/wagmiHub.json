@@ -6,6 +6,6 @@
     "999": "00",
     "haha": "00",
     "claim":"//button[text()='Claim']",
-    "xx":"(//div[contains(@class, 'sc-bhXUA-d cymWFF')])",
+    "xx":"(//div[contains(@class, 'sc-bhXUA-d cymWFF') or contains(@class, 'sc-bJhnkV fQMqYV')])",
     "Vào đây làm gì vậy": "Tool By: Huyền Vi Airdrop"
   }
