@@ -4,7 +4,7 @@
     "Tele": "@mavantai_deptrai",
     "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
     "Checked": "0",
-    "Code_SCR": "107",
+    "Code_SCR": "108",
     "9": "00",
     "GiftSpin": "//img[@alt='crown-icon' and contains(@src, '/assets/img/season-pass/crown-key.png')]",
     "ButtonG": "//button[contains(@class, 'main-button') and contains(@class, 'green-button-v2') and not(@disabled)]",
