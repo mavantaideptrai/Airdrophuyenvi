@@ -6,7 +6,7 @@
     "Destroy": "00",
     "999": "00",
     "up": "//img[contains(@src, '/earn.png')]",
-    "Openboxj": "//img[contains(@src, '/earn.png')]",
-    "Spinj": "//img[contains(@src, '/earn.png')]",
+    "Openboxj": "//button[contains(@class, 'text-12-bold') and .//div[text()='Open']]",
+    "Spinj": "//img[contains(@src, 'img/mainpage/wheel.png')]",
     "hhahahahhahaha":"Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
