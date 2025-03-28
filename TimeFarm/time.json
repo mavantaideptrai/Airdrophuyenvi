@@ -7,7 +7,7 @@
     "Destroy": "00",
     "bnt1": "00",
     "NoTaskj": "(//section[@class='root tap-task' and .//a[@class='task-button-component orange']])[$upTask]//div[contains(text(), 'TON') or contains(text(),'Watch video and earn')]",
-    "BuyClockj": "00",
+    "BuyClockj": "//img[@class='upgrade-icon' and contains(@src, '/svg/bxs_zap.svg')]",
     "TaskPj": "//section[@class='root tap-task' and .//div[@class='title' and contains(text(),'Play')]]//a[@class='task-button-component orange']//div[contains(.//span, '')]",
     "TaskNMj": "(//section[@class='root tap-task']//a[@class='task-button-component orange']//div[contains(.//span, '')])[$upTask]",
     "xTaskDailyj": "//div[@class='vast_player_close_btn']",
