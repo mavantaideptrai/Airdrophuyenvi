@@ -4,9 +4,11 @@
     "Checked": "1",
     "Code_SCR": "238",
     "Destroy": "00",
+    "Nofi": "AAA",
     "999": "00",
     "up": "//img[contains(@src, '/earn.png')]",
     "Openboxj": "//button[contains(@class, 'text-12-bold') and .//div[text()='Open']]",
     "Spinj": "//img[contains(@src, 'img/mainpage/wheel.png')]",
+    "Taskj": "//img[contains(@src, 'img/mainpage/wheel.png')]",
     "hhahahahhahaha":"Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
