@@ -4,7 +4,7 @@
     "Tele": "@mavantai_deptrai",
     "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
     "Checked": "0",
-    "Code_SCR": "109",
+    "Code_SCR": "110",
     "Destroy": "00",
     "9": "00",
     "moneyUpj": "//button[contains(@class, 'upgrade-button')]//app-currency-view//span[@class='main-label currency-label flex-row align-center']",
