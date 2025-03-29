@@ -1,9 +1,9 @@
 {
     "Mua Script tại": "https://app.gpmautomate.com/store/huyen-vi-airdrop",
     "Liên hệ": "https://www.facebook.com/Huynh.Huynh.02/",
-    "Checked": "1",
+    "Checked": "0",
     "Code_SCR": "229",
-    "Destroy": "0",
+    "Destroy": "3",
     "999": "00",
     "inDailyj": "//div[@id='2994'] | //div[@id='i_s_a_overlay' and contains(@style, 'display: flex')] | //button[contains(@class, 'ytp-large-play-button')]",
     "NoTaskj": "(//section[@class='root tap-task' and .//a[@class='task-button-component orange']])[$upTask]//div[contains(text(), 'TON') or contains(text(),'Watch video and earn')]",
