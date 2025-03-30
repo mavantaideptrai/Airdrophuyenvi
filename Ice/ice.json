@@ -8,6 +8,7 @@
     "Game": "00",
     "BuyPlayCardj": "//button[not(@disabled)][p[contains(normalize-space(), '990')]]",
     "xTaskDailyVDj": "//div[@class='vast_player_close_btn']",
+    "Popupj": "//button[@aria-label='Close']",
     "c-task": "css-6042af",
     "c-a": "css-1yt34ak",
     "End": "Chào bạn nhé! Vào đây làm gì vậy? Tool By Tele: Huyenviairdrop"
