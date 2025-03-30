@@ -6,5 +6,8 @@
     "Destroy": "00",
     "999": "00",
     "Game": "00",
+    "BuyPlayCardj": "//button[not(@disabled)][p[contains(normalize-space(), '990')]]",
+    "TaskNMj": "(//div[contains(@class, '$c-task')]//a[contains(@class, '$c-a')])[$checkTask]",
+    "xTaskDailyVDj": "//div[@class='vast_player_close_btn']",
     "End": "Chào bạn nhé! Vào đây làm gì vậy? Tool By Tele: Huyenviairdrop"
 }
