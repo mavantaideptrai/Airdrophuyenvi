@@ -9,5 +9,7 @@
     "BuyPlayCardj": "//button[not(@disabled)][p[contains(normalize-space(), '990')]]",
     "TaskNMj": "(//div[contains(@class, '$c-task')]//a[contains(@class, '$c-a')])[$checkTask]",
     "xTaskDailyVDj": "//div[@class='vast_player_close_btn']",
+    "c-task": "(//div[contains(@class, 'css-6042af')]//a)",
+    "c-a": "//a[contains(@class, 'css-1yt34ak')]",
     "End": "Chào bạn nhé! Vào đây làm gì vậy? Tool By Tele: Huyenviairdrop"
 }
