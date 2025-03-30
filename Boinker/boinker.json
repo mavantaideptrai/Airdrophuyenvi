@@ -7,6 +7,7 @@
     "Code_SCR": "110",
     "Destroy": "00",
     "9": "00",
+    "Homej": "//button[contains(@class, 'upgrade-button')]//app-currency-view//span[@class='main-label currency-label flex-row align-center']",
     "moneyUpj": "//button[contains(@class, 'upgrade-button')]//app-currency-view//span[@class='main-label currency-label flex-row align-center']",
     "shieldAndFreej": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(contains(., '$')) and not(@disabled)]",
     "xTaskDailyj": "//div[@class='close_btn' and contains(@style, 'display: flex') and text()='X'] | //div[@class='vast_player_close_btn']",
