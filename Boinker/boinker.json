@@ -13,7 +13,7 @@
     "GiftSpin": "//img[@alt='crown-icon' and contains(@src, '/assets/img/season-pass/crown-key.png')]",
     "ButtonG": "//button[contains(@class, 'main-button') and contains(@class, 'green-button-v2') and not(@disabled)]",
     "BtnFree":"//div[contains(@class, 'main-label') and contains(@class, 'shadow') and contains(@class, 'flex-row') and not(contains(@class, 'locked'))] /span[text()='FREE']",
-    "BtnGreen":"//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(disabled) and not(contains(., '$') or contains(., 'INVITE'))]",
+    "BtnGreen":"//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@disabled) and not(contains(@class, 'height-100')) and not(contains(@class, 'width-100')) and not(contains(., '$') or contains(., 'INVITE'))]",
     "BtnFreeGird":"//div[contains(@class, 'grid-prizes-container')]//div[@class='milestone-container flex-column justify-center align-center' and not(.//span[contains(text(), '$')])]",
     "BtnFreeGirdChill":"//div[contains(@class, 'grid-container')]//div[@class='milestone-container flex-column justify-center align-center' and not(.//span[contains(text(), '$')])]",
     "Count_Evnet": 3,
