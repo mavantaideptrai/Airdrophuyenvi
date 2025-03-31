@@ -6,13 +6,14 @@
     "Destroy": "00",
     "999": "00",
     "haha": "00",
-    "minDaily": "25",
-    "maxDaily": "30",
+    "minDaily": "28",
+    "maxDaily": "35",
     "checkDailyj": "onclick/wagmi",
     "taskNmJ":"(//*[local-name()='path'][@d='M7.92871 14.1431L12.0719 9.99987L7.92871 5.85668'] /ancestor::*[local-name()='div'][not(descendant::input) and not(.//*[contains(text(), '/') or contains(text(), 'Telegram') or contains(text(), 'success')])][1])",
     "claim":"//button[text()='Claim']",
     "boots":"//div[contains(., 'Boost')]//div[contains(., 'Boost')]//img[@alt='arrow-boost']",
     "xx":"(//div[contains(@class, 'sc-bhXUA-d cymWFF') or contains(@class, 'sc-bJhnkV fQMqYV') or contains(@class, 'sc-hEXWOQ fwepRS') or contains(@class, 'sc-jKmtzF bDHkBe') or contains(@class, 'sc-jLLbrK gUVVJj')])",
     "openTaskOLD":"0",
+    "checklinkads":"0",
     "Vào đây làm gì vậy": "Tool By: Huyền Vi Airdrop"
   }
