@@ -8,7 +8,7 @@
     "haha": "00",
     "minDaily": "25",
     "maxDaily": "30",
-    "checkDailyj": "https://adly.network/onclick/wagmi",
+    "checkDailyj": "onclick/wagmi",
     "taskNmJ":"(//*[local-name()='path'][@d='M7.92871 14.1431L12.0719 9.99987L7.92871 5.85668'] /ancestor::*[local-name()='div'][not(descendant::input) and not(.//*[contains(text(), '/') or contains(text(), 'Telegram') or contains(text(), 'success')])][1])",
     "claim":"//button[text()='Claim']",
     "boots":"//div[contains(., 'Boost')]//div[contains(., 'Boost')]//img[@alt='arrow-boost']",
