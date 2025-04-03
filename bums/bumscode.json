@@ -7,6 +7,7 @@
   "999": "00",
   "vipvipBums": "//div[contains(@class, 'enter')]//span[text()='ENTER']",
   "claimvipj": "//div[contains(@class, 'cliamAll') and contains(@class, 'cliam')]",
+  "imgOKXclaimj": "//img[contains(@src, 'BAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAArzSURBVHgB7d1JaBTbHsfxf26c5xlR1M7ChQsxutCFC3OJuHCloOATQRfuBONO0EW8iCAKDqAgqPgkZhMi7+lCRNT')]",
   "111": "00",
   "Find hidden code - watch Bums Show Episode 0": 42858,
   "Find hidden code - watch Bums Show Episode 1": 95065,
