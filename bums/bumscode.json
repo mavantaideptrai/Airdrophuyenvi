@@ -5,6 +5,7 @@
   "Code_SCR": "730",
   "Destroy": "00",
   "999": "00",
+  "homej": "//div[@class='van-tabbar-item van-tabbar-item--active']//span[text()='Play'] | //div[@class='van-tabbar-item']//span[text()='Play']",
   "vipvipBums": "//div[contains(@class, 'enter')]//span[text()='ENTER']",
   "claimvipj": "//div[contains(@class, 'cliamAll') and contains(@class, 'cliam')]",
   "imgOKXclaimj": "//img[contains(@src, 'BAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAArzSURBVHgB7d1JaBTbHsfxf26c5xlR1M7ChQsxutCFC3OJuHCloOATQRfuBONO0EW8iCAKDqAgqPgkZhMi7+lCRNT')]",
