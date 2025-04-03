@@ -2,7 +2,7 @@
   "Mua Script tại": "https://app.gpmautomate.com/store/huyen-vi-airdrop",
   "Liên hệ": "https://www.facebook.com/Huynh.Huynh.02/",
   "Checked": "0",
-  "Code_SCR": "730",
+  "Code_SCR": "731",
   "Destroy": "00",
   "999": "00",
   "homej": "//div[@class='van-tabbar-item van-tabbar-item--active']//span[text()='Play'] | //div[@class='van-tabbar-item']//span[text()='Play']",
