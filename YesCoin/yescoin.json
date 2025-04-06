@@ -12,5 +12,8 @@
     "x2": 440,
     "y1": 200,
     "y2": 438,
+    "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
+    "loadGamej": "//div[contains(@class, 'user-name')] | //div[contains(@class, 'skew-rect-cont')] | //div[contains(@class, 'money')]",
+    "bntTaskj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Earn']",
     "hhahahahhahaha": "Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
