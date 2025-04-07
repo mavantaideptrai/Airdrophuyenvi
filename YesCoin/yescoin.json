@@ -19,6 +19,7 @@
     "ifopenChest": "//div[@class='launch-background old-background chest-background']",
     "bntTaskj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Earn']",
     "bntClosej": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))]//img[@class='popup-close']",
+    "bntDailyClosej": "//div[contains(@class, 'checkin-reward-overlay') and not(contains(@style, 'display: none'))]//img[@class='popup-close']",
     "bntWhitej": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[@class='van-button van-button--default van-button--normal btn white center']",
     "bntYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[@class='van-button van-button--default van-button--normal btn yellow center']",
     "bntClaimYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Claim']",
