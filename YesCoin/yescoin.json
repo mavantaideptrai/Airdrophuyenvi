@@ -24,7 +24,7 @@
     "progress-value-j": "//p[@class='progress-value']",
     "ifopenChest": "//div[@class='launch-background old-background chest-background']",
     "bntTaskj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Earn']",
-    "bntCheckTaskj": "//div[contains(@class, 'card-area')][.//div[contains(@class, 'card-title')] and not(.//div[contains(@class, 'card-right')]//img[contains(@class, 'success-icon')])]",
+    "bntDoCheckTaskj": "//div[contains(@class, 'card-area')][.//div[contains(@class, 'card-title')] and not(.//div[contains(@class, 'card-right')]//img[contains(@class, 'success-icon')])]",
     "bntClosej": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))]//img[@class='popup-close']",
     "bntDailyClosej": "//div[contains(@class, 'checkin-reward-overlay') and not(contains(@style, 'display: none'))]//img[@class='popup-close']",
     "bntWhitej": "//div[(contains(@class, 'van-popup') or contains(@class, 'van-overlay')) and not(contains(@style, 'display: none'))]//button[@class='van-button van-button--default van-button--normal btn white center']",
