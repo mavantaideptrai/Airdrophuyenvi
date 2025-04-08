@@ -12,6 +12,7 @@
     "x2": 440,
     "y1": 200,
     "y2": 438,
+    "timeWideStart": 9,
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
     "loadGamej": "//div[contains(@class, 'user-name')] | //div[contains(@class, 'skew-rect-cont')] | //div[contains(@class, 'money')]",
     "popupj": "//div[@class='popup-content']",
@@ -25,5 +26,6 @@
     "bntClaimYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Claim']",
     "bntStartYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Start']",
     "bntCheckYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Check']",
+    "bntGetItYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Get it']",
     "hhahahahhahaha": "Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
