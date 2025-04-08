@@ -24,7 +24,7 @@
     "progress-value-j": "//p[@class='progress-value']",
     "ifopenChest": "//div[@class='launch-background old-background chest-background']",
     "bntTaskj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Earn']",
-    "bntDoCheckTaskj": "//div[contains(@class, 'card-area') and not(.//img[contains(@class, 'success-icon')])]",
+    "bntDoCheckTaskj": "(//div[contains(@class, 'card-area') and not(.//img[contains(@class, 'success-icon')])])",
     "bntNoCheckTaskj": "[.//div[contains(@class, 'card-title') and (contains(text(), 'Daily') or contains(text(), 'Claim Offline reward 1 time') or contains(text(), 'Open a Chest') or contains(text(), 'Use Full Recovery 1 time') or contains(text(), 'Watch ads to earn'))]]",
     "bntClaimTaskMinij": "//div[contains(@class, 'card-area')]//button[div/span[text()='Claim'] and not(@disabled)]",
     "bntClosej": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))]//img[@class='popup-close']",
