@@ -20,7 +20,7 @@
     "popup2j": "//div[@class='popup-content']",
     "dailyj": "//button[contains(@class, 'y-tab-btn') and .//div[contains(@class, 'y-tab-btn-content') and contains(., 'Daily')]]",
     "achievementj": "//button[contains(@class, 'y-tab-btn') and .//div[contains(@class, 'y-tab-btn-content') and contains(., 'Achievement')]]",
-    "partnerj": "//button[contains(@class, 'y-tab-btn') and .//div[contains(@class, 'y-tab-btn-content') and contains(., 'Daily')]]",
+    "partnerj": "//button[contains(@class, 'y-tab-btn') and .//div[contains(@class, 'y-tab-btn-content') and contains(., 'Partner')]]",
     "progress-value-j": "//p[@class='progress-value']",
     "ifopenChest": "//div[@class='launch-background old-background chest-background']",
     "bntTaskj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Earn']",
