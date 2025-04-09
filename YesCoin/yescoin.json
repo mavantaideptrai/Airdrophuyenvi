@@ -39,6 +39,7 @@
     "bntGetItYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Get it']",
     "bntLvUpYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Level Up']",
     "bntBuyYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Buy']",
+    "bntJoinYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Join']",
     "erroCheckClaim": "//div[@role='dialog' and contains(@class, 'van-notify') and normalize-space()='Please reach the required level.' and not(contains(@style, 'display: none'))]",
     "bntBootsj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Build']",
     "mutivaluej": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='Multivalue']]//p[contains(@class, 'reward-value')]",
