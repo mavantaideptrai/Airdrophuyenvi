@@ -39,5 +39,8 @@
     "bntGetItYelowj": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))] //button[contains(@class, 'van-button') and contains(@class, 'yellow') and contains(@class, 'center')]//span[text()='Get it']",
     "erroCheckClaim": "//div[@role='dialog' and contains(@class, 'van-notify') and normalize-space()='Please reach the required level.' and not(contains(@style, 'display: none'))]",
     "bntBootsj": "//div[contains(@class, 'round-rect-cont')]//p[contains(@class, 'btn-text') and text()='Build']",
+    "mutivaluej": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='Multivalue']]//p[contains(@class, 'reward-value')]",
+    "coinlimitj": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='Coinlimit']]//p[contains(@class, 'reward-value')]",
+    "fillratej": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='FillRate']]//p[contains(@class, 'reward-value')]",
     "hhahahahhahaha": "Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
