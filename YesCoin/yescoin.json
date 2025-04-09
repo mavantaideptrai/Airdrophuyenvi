@@ -14,6 +14,7 @@
     "y2": 438,
     "timeWideStart": 9,
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
+    "iconYsj": "//div[contains(@class, '_BrowserHeaderTabs_m63td_72')] //img[@class='avatar-photo']",
     "loadGamej": "//div[contains(@class, 'user-name')] | //div[contains(@class, 'skew-rect-cont')] | //div[contains(@class, 'money')]",
     "popupj": "//div[@class='popup-content']",
     "popup1j": "//div[@class='popup-content']",
