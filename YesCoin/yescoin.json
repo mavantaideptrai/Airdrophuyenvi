@@ -43,5 +43,6 @@
     "coinlimitj": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='Coinlimit']]//p[contains(@class, 'reward-value')]",
     "fillratej": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='FillRate']]//p[contains(@class, 'reward-value')]",
     "yespacj": "//div[contains(@class, 'card-left-content')][.//div[contains(@class, 'card-title') and text()='YesPac']]//p[contains(@class, 'reward-value')]",
+    "banaceCoinj": "//div[contains(@class, 'amount-value')]/div[contains(@class, 'y-fit-text-inner')]",
     "hhahahahhahaha": "Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
