@@ -51,5 +51,7 @@
     "tickerYesj": "//div[contains(@class, 'contentItem')]//div[contains(@class, 'y-fit-text-inner')]",
     "tickertiktokj": "//img[contains(@src, 'ticket-bg-BJ_IDtVI.webp')]",
     "tickerCvj": "//canvas[contains(@class, 'y-scratch-mask-box')]",
+    "chimOffj": "//img[@class='icon' and @src='/assets/home-bottom-yespac-BdgBljA1.png']",
+    "chimOnj": "//img[@class='icon' and @src='/assets/home-bottom-yespac-DfO4oGR1.gif']",
     "hhahahahhahaha": "Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
