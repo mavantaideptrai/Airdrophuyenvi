@@ -17,7 +17,7 @@
     "adsClaim":1,
     "noThankj":"//button[text()='No, thanks']",
     "boots":"//div[contains(., 'Boost')]//div[contains(., 'Boost')]//img[@alt='arrow-boost']",
-    "xx":"(//div[contains(@class, 'sc-bhXUA-d cymWFF') or contains(@class, 'sc-bJhnkV fQMqYV') or contains(@class, 'sc-hEXWOQ fwepRS') or contains(@class, 'sc-jKmtzF bDHkBe') or contains(@class, 'sc-jLLbrK gUVVJj') or contains(@class, 'sc-dvHMaH izqLHw') or contains(@class, 'sc-lhnPKg iImZdM')])",
+    "xx":"(//div[contains(@class, 'sc-bhXUA-d cymWFF') or contains(@class, 'sc-bJhnkV fQMqYV') or contains(@class, 'sc-hEXWOQ fwepRS') or contains(@class, 'sc-jKmtzF bDHkBe') or contains(@class, 'sc-jLLbrK gUVVJj') or contains(@class, 'sc-dvHMaH izqLHw') or contains(@class, 'sc-lhnPKg iImZdM') or contains(@class, 'sc-cOZpVf csuYQQ')])",
     "openTaskOLD":"1",
     "checklinkads":"0",
     "Vào đây làm gì vậy": "Tool By: Huyền Vi Airdrop"
