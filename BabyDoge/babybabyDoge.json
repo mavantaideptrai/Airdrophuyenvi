@@ -6,6 +6,7 @@
     "Destroy": "0",
     "Nofi": "AAA",
     "999": "00",
+    "loadGamej": "//img[contains(@src, 'compressed/resized-images/doge/') and @alt='doge' and contains(@class, 'absolute')] | //button[contains(@class, 'h-7') and contains(@class, 'bg-babydoge-primary')]/p[text()='Skip']",
     "skipCreatAccj": "//button[contains(@class, 'h-7') and contains(@class, 'bg-babydoge-primary')]/p[text()='Skip']",
     "gridCheckInj": "//div[ contains(@class, 'grid') and contains(@class, 'grid-cols-4') and contains(@class, 'gap-2') and contains(@class, 'w-full') and contains(@class, 'left-0') ]",
     "bntCheckinj": "//button[contains(@class, 'w-full') and contains(@class, 'h-[56px]')]",
