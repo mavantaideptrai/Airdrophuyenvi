@@ -5,6 +5,7 @@
     "Code_SCR": "239",
     "Destroy": "0",
     "Nofi": "AAA",
+    "StopEnd": "0",
     "999": "00",
     "loadGamej": "//img[contains(@src, 'compressed/resized-images/doge/') and @alt='doge' and contains(@class, 'absolute')] | //button[contains(@class, 'h-7') and contains(@class, 'bg-babydoge-primary')]/p[text()='Skip']",
     "skipCreatAccj": "//button[contains(@class, 'h-7') and contains(@class, 'bg-babydoge-primary')]/p[text()='Skip']",
