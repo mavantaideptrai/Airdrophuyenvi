@@ -11,6 +11,8 @@
     "gridCheckInj": "//div[ contains(@class, 'grid') and contains(@class, 'grid-cols-4') and contains(@class, 'gap-2') and contains(@class, 'w-full') and contains(@class, 'left-0') ]",
     "bntCheckinj": "//button[contains(@class, 'w-full') and contains(@class, 'h-[56px]')]",
     "up": "//img[contains(@src, '/earn.png')]",
+    "checkLVChaj": "(//div[ contains(@class, 'flex') and contains(@class, 'absolute') ])",
+    "checkLVConj": "//p[contains(text(), 'LVL')]",
     "Openboxj": "//button[contains(@class, 'text-12-bold') and .//div[text()='Open']]",
     "Spinj": "//img[contains(@src, 'img/mainpage/wheel.png')]",
     "diepVienXXX": "//button[contains(@class, 'absolute') and contains(@class, 'top-7') and contains(@class, 'right-7')] | //button[contains(@class, 'z-50') and contains(@class, 'absolute') and contains(@class, 'top-3') and contains(@class, 'right-3')] | //button[contains(@class, 'absolute') and contains(@class, 'top-6') and contains(@class, 'right-10')]",
