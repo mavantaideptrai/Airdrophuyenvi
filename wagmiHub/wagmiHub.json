@@ -22,5 +22,6 @@
     "openTaskOLD":"1",
     "checklinkads":"0",
     "bntProfilej":"//p[text()='Profile']",
+    "bntProfileWalletj":"//*[local-name()='path'][contains(@d, 'M19.8332 1.84208C19.3876 1.61996')]/ancestor::*[local-name()='div'][1]",
     "Vào đây làm gì vậy": "Tool By: Huyền Vi Airdrop"
   }
