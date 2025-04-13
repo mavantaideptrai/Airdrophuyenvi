@@ -6,6 +6,7 @@
     "Checked": "0",
     "Code_SCR": "111",
     "Destroy": "00",
+    "StopEnd": "0",
     "9": "00",
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
     "Homej": "//a[@href='/'] | //a[contains(@href, '/?tgWebAppStartParam')] | //a//img[@src='/assets/img/hammer.png']",
