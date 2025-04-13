@@ -10,6 +10,7 @@
     "maxDaily": "25",
     "max2Daily": "10",
     "checkDailyj": "onclick/wagmi",
+    "bntTaskj": "//p[text()='Earn']",
     "taskNmJ":"(//*[local-name()='path'][@d='M7.92871 14.1431L12.0719 9.99987L7.92871 5.85668'] /ancestor::*[local-name()='div'][not(descendant::input) and not(.//*[contains(text(), '/') or text()='Telegram' or contains(text(), 'success')])][1])",
     "taskNmJ_OLD":"(//*[local-name()='path'][@d='M7.92871 14.1431L12.0719 9.99987L7.92871 5.85668'] /ancestor::*[local-name()='div'][not(descendant::input) and not(.//*[contains(text(), '/') or contains(text(), 'Telegram') or contains(text(), 'success')])][1])",
     "claim":"//button[text()='Claim']",
@@ -20,5 +21,6 @@
     "xx":"(//div[contains(@class, 'sc-bhXUA-d cymWFF') or contains(@class, 'sc-bJhnkV fQMqYV') or contains(@class, 'sc-hEXWOQ fwepRS') or contains(@class, 'sc-jKmtzF bDHkBe') or contains(@class, 'sc-jLLbrK gUVVJj') or contains(@class, 'sc-dvHMaH izqLHw') or contains(@class, 'sc-lhnPKg iImZdM') or contains(@class, 'sc-cOZpVf csuYQQ')])",
     "openTaskOLD":"1",
     "checklinkads":"0",
+    "bntProfilej":"//p[text()='Profile']",
     "Vào đây làm gì vậy": "Tool By: Huyền Vi Airdrop"
   }
