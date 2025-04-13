@@ -6,6 +6,8 @@
     "Destroy": "0",
     "Nofi": "AAA",
     "999": "00",
+    "gridCheckInj": "///div[ contains(@class, 'grid') and contains(@class, 'grid-cols-4') and contains(@class, 'gap-2') and contains(@class, 'w-full') and contains(@class, 'left-0') ]",
+    "bntCheckinj": "//button[contains(@class, 'w-full') and contains(@class, 'h-[56px]')]",
     "up": "//img[contains(@src, '/earn.png')]",
     "Openboxj": "//button[contains(@class, 'text-12-bold') and .//div[text()='Open']]",
     "Spinj": "//img[contains(@src, 'img/mainpage/wheel.png')]",
