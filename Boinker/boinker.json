@@ -10,6 +10,7 @@
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
     "Homej": "//a[@href='/'] | //a[contains(@href, '/?tgWebAppStartParam')] | //a//img[@src='/assets/img/hammer.png']",
     "moneyUpj": "//button[contains(@class, 'upgrade-button')]//app-currency-view//span[@class='main-label currency-label flex-row align-center']",
+    "bntDaiLyWheel": "//img[@src='/assets/img/daily-wheel/wheel-icon.png'] | //img[@alt='daily-wheel']",
     "shieldAndFreej": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(contains(., '$')) and not(@disabled)]",
     "xTaskDailyj": "//div[@class='close_btn' and contains(@style, 'display: flex') and text()='X'] | //div[@class='vast_player_close_btn']",
     "voiz":"//mat-snack-bar-container | //mat-dialog-container[@aria-owns]",
