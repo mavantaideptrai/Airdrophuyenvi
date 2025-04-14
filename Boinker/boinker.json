@@ -37,7 +37,7 @@
     "limitSpinj": 50,
     "bntElevatorj": "//img[@src='/assets/img/elevator.png']",
     "bntSpinj": "//button[contains(@class, 'spin-button')]",
-    "bntSpinNotAutoj": "//button[contains(@class, 'spin-button')]",
+    "bntSpinNotAutoj": "//button[contains(@class, 'spin-button') and contains(@class, 'auto-spinning')]",
     "bntSpinDefaultj": "//button[contains(@class, 'spin-button') and not(contains(@class, 'auto-spinning'))]",
     "bntSpinCanHoldj": "//button[contains(@class, 'spin-button') and not(contains(@class, 'auto-spinning'))]//span[2]",
     "countSpin": "//app-slider//span[@class='ng-star-inserted']",
