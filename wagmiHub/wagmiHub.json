@@ -6,6 +6,8 @@
     "Destroy": "00",
     "999": "00",
     "haha": "00",
+    "goGame": 0,
+    "timeLoad": 60,
     "minDaily": "20",
     "maxDaily": "25",
     "max2Daily": "10",
