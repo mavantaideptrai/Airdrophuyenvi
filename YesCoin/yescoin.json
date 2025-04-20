@@ -12,7 +12,7 @@
     "x2": 440,
     "y1": 190,
     "y2": 438,
-    "timeWideStart": 4,
+    "timeWideStart": 6,
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
     "iconYsj": "//div[contains(@class, '_BrowserHeaderTabs_m63td_72')] //img[@class='avatar-photo']",
     "reloadIfj": "//div[@class='btn-menu-item rp-overflow' and .//span[text()='Reload Page']]",
