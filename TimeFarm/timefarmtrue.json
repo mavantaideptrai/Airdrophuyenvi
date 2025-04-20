@@ -5,7 +5,7 @@
     "Code_SCR": "228",
     "999": "00",
     "Destroy": "00",
-    "bnt1": "00",
+    "inDailyj": "//div[@id='2994'] | //div[@id='i_s_a_overlay' and contains(@style, 'display: flex')] | //button[contains(@class, 'ytp-large-play-button')]",
     "NoTaskj": "(//section[@class='root tap-task' and .//a[@class='task-button-component orange']])[$upTask]//div[contains(text(), 'TON') or contains(text(),'Watch video and earn')]",
     "BuyClockj": "//img[@class='upgrade-icon' and contains(@src, '/svg/bxs_zap.svg')]",
     "TaskPj": "//section[@class='root tap-task' and .//div[@class='title' and contains(text(),'Play')]]//a[@class='task-button-component orange']//div[contains(.//span, '')]",
