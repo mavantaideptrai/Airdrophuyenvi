@@ -4,7 +4,7 @@
     "Checked": "0",
     "Code_SCR": "228",
     "999": "00",
-    "Destroy": "00",
+    "Destroy": "1",
     "bnt1": "00",
     "NoTaskj": "(//section[@class='root tap-task' and .//a[@class='task-button-component orange']])[$upTask]//div[contains(text(), 'TON') or contains(text(),'Watch video and earn')]",
     "BuyClockj": "//img[@class='upgrade-icon' and contains(@src, '/svg/bxs_zap.svg')]",
