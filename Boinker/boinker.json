@@ -10,6 +10,7 @@
     "9": "00",
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
     "Homej": "//a[@href='/'] | //a[contains(@href, '/?tgWebAppStartParam')] | //a//img[@src='/assets/img/hammer.png']",
+    "bntX":"//img[contains(@src, 'x-button.png') and @alt='close']",
     "popupNoXj": "//div[contains(@class, 'dialog-container') and contains(@class, 'fade-in')]",
     "moneyUpj": "//button[contains(@class, 'upgrade-button')]//app-currency-view//span[@class='main-label currency-label flex-row align-center']",
     "bntDaiLyWheel": "//img[@src='/assets/img/daily-wheel/wheel-icon.png'] | //img[@alt='daily-wheel']",
