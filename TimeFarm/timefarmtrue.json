@@ -11,6 +11,8 @@
     "TaskPj": "//section[@class='root tap-task' and .//div[@class='title' and contains(text(),'Play')]]//a[@class='task-button-component orange']//div[contains(.//span, '')]",
     "TaskNMj": "(//section[@class='root tap-task']//a[@class='task-button-component orange']//div[contains(.//span, '')])[$upTask]",
     "xTaskDailyj": "//div[@class='vast_player_close_btn'] | //div[contains(@style, 'background: rgba(88, 65, 65, 0.6)')]",
+    "erro05Timej": "//div[@class='selected-value' and contains(normalize-space(.), '0.5 TIME')]",
+    "bntXj": "//img[@alt='x-icon']",
     "haha": "00",
     "Earn $100 Every 30 Min with THESE Websites": "Iphone",
     "How To Make $1,000,000 with Graphic Design": "Money",
