@@ -49,7 +49,7 @@
     "taskNotDoClaimj": "//app-rewarded-action[ not(contains(@class, 'hidden')) and not(contains(@class, 'completed')) and (contains(@class, 'ready-to-claim')) and not(contains(., 'Island')) and not(contains(., 'Animals')) and not(contains(., 'Notcoin')) and not(.//img[contains(@src, 'tof.png_1742825665636.png')])]",
     "taskAdsDailyj":"//app-rewarded-action[ not(contains(@class, 'hidden')) and not(contains(@class, 'completed')) and not(contains(@class, 'ready-to-claim')) and (.//img[contains(@src, 'clock')]) and not(@id='connectTonWallet')] //button[ contains(@class, 'main-button') and contains(@class, 'green-button') and contains(@class, 'rewards-button') and contains(@class, 'flex-full') and contains(@class, 'width-100')]",
     "bntGO": "//button[ contains(@class, 'main-button') and contains(@class, 'green-button') and contains(@class, 'rewards-button') and contains(@class, 'flex-full') and contains(@class, 'width-100')]",
-    "bntVeri": "//button[ contains(@class, 'main-button') and contains(@class, 'blue-button') and contains(@class, 'rewards-button') and contains(@class, 'cta-label') and contains(@class, 'flex-full') and contains(@class, 'regular-left-button-layout') and contains(@class, 'ng-star-inserted')]",
+    "bntVeri": "//button[contains(@class, 'main-button') and contains(@class, 'blue-button') and contains(@class, 'rewards-button') and contains(@class, 'cta-label') and contains(@class, 'flex-full') and contains(@class, 'regular-left-button-layout')]",
     "bntClaim": "//button[ contains(@class, 'main-button') and contains(@class, 'green-button') and contains(@class, 'rewards-button') and contains(@class, 'flex-full') and not(contains(@class, 'width-100'))]",
     "999": "00",
     "hahahahhahahah": 33270
