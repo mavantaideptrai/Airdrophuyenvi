@@ -18,6 +18,7 @@
     "Spinj": "//img[contains(@src, 'img/mainpage/wheel.png')]",
     "diepVienXXX": "//button[contains(@class, 'absolute') and contains(@class, 'top-7') and contains(@class, 'right-7')] | //button[contains(@class, 'z-50') and contains(@class, 'absolute') and contains(@class, 'top-3') and contains(@class, 'right-3')] | //button[contains(@class, 'absolute') and contains(@class, 'top-6') and contains(@class, 'right-10')]",
     "Taskj": "//button[contains(@class, 'flex') and contains(@class, 'h-[28px]') and contains(@class, 'justify-center') and contains(@class, 'items-center') and contains(@class, 'gap-1')]",
+    "TaskDoNotj": "//h4[contains(text(), 'GasPump Announcements') or contains(text(), 'Wallet connect') or contains(text(), 'Join Our Telegram Channel') or contains(text(), 'Channel') or contains(text(), 'News') or contains(text(), 'to your name')]",
     "BUpLVj": "//div[contains(@class, 'relative z-30')]//button[contains(@class, 'w-full') and contains(@class, 'flex') and contains(@class, 'rounded-[60px]') and not(@disabled)]",
     "hhahahahhahaha":"Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
