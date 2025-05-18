@@ -8,6 +8,7 @@
     "999": "00",
     "homej": "//div[@class='van-tabbar-item__text']//span[text()='HOME']",
     "taskj": "//div[@class='van-tabbar-item__text']//span[text()='TASK']",
+    "loteryj": "//div[@class='van-tabbar-item__text']//span[text()='LOTTERY']",
     "gamej": "//div[@class='van-tabbar-item__text']//span[text()='GAME CENTER']",
     "upgradej": "//div[@class='quick-icon' and .//div[@class='label' and text()='UPGRADE']]",
     "hopbianj": "//div[@class='quick-icon' and .//div[@class='label' and text()='MYSTERY BOX']]",
