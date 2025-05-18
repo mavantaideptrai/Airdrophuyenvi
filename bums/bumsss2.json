@@ -12,6 +12,7 @@
     "upgradej": "//div[@class='quick-icon' and .//div[@class='label' and text()='UPGRADE']]",
     "hopbianj": "//div[@class='quick-icon' and .//div[@class='label' and text()='MYSTERY BOX']]",
     "checkbumsss2": "//div[contains(@class, 'quick-icon') and contains(@class, 'special-icon') and .//div[@class='label' and text()='BUMS2.0']]",
+    "expedtionj": "//div[@class='quick-icon' and .//div[@class='label' and text()='EXPEDITION']]",
     "towsj": "//div[@class='quick-icon' and .//div[@class='label' and text()='TOWNS']]",
     "vipTowsj": "//div[contains(@class, 'enter')]//span[text()='ENTER']",
     "lostTowsj": "//div[contains(@class, 'own-town') and contains(@class, 'radius_8')]//span[text()='CREATE YOUR OWN TOWN']",
