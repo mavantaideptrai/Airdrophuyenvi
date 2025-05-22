@@ -21,5 +21,7 @@
     "TaskDoNot1j": "//h4[contains(text(), 'Watch 5 Rewarded Video') or contains(text(), 'Ton Daily')]",
     "TaskDoNot2j": "//h4[contains(text(), 'GasPump Announcements') or contains(text(), 'Wallet connect') or contains(text(), 'Join Our Telegram Channel') or contains(text(), 'Channel') or contains(text(), 'News') or contains(text(), 'to your name') or contains(text(), 'Get BabyDoge Plane')]",
     "BUpLVj": "//div[contains(@class, 'relative z-30')]//button[contains(@class, 'w-full') and contains(@class, 'flex') and contains(@class, 'rounded-[60px]') and not(@disabled)]",
+    "rangame1": "592",
+    "rangame2": "666",
     "hhahahahhahaha":"Người lạc quan thức đến nửa đêm để đón năm mới. Người bi quan thức để chắc chắn rằng năm cũ đã qua."
 }
