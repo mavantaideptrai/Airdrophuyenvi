@@ -23,7 +23,7 @@
     "vipTowsj": "//div[contains(@class, 'enter')]//span[text()='ENTER']",
     "lostTowsj": "//div[contains(@class, 'own-town') and contains(@class, 'radius_8')]//span[text()='CREATE YOUR OWN TOWN']",
     "taskWelcomj": "//div[@class='van-swipe-item van-tab__panel-wrapper' and @aria-hidden='false']//p[text()='Welcome Task']//following-sibling::div[@class='Item']//div[@class='desc']//span[ text()='Bums listing preparation news! Repost the telegram post!' or text()='New NFT on the streets! Like and repost in Telegram!' or text()='Your Diamonds = Real money. Don’t miss out!' or text()='Play with the Bum on X!' ]",
-    "xXx":"//div[contains(@class, 'van-popup') and contains(@class, 'van-popup--round') and contains(@class, 'van-popup--center') and not(contains(@style, 'display: none'))]//img[starts-with(@src, 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABi')]",
+    "xXx":"(//div[contains(@class, 'van-popup') and contains(@class, 'van-popup--round') and contains(@class, 'van-popup--center') and not(contains(@style, 'display: none'))]//img[starts-with(@src, 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABi')])[last()]",
     "vipvipBums": "//div[contains(@class, 'enter')]//span[text()='ENTER']",
     "backj":"//a[@class='back-button'and not(contains(@style, 'display: none'))] | //img[@class='back' and not(contains(@style, 'display: none'))]",
     "claimvipj": "//div[contains(@class, 'cliamAll') and contains(@class, 'cliam')]",
