@@ -30,6 +30,7 @@
     "imgOKXclaimj": "//img[contains(@src, 'BAAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAArzSURBVHgB7d1JaBTbHsfxf26c5xlR1M7ChQsxutCFC3OJuHCloOATQRfuBONO0EW8iCAKDqAgqPgkZhMi7+lCRNT')]",
     "imgRoadj": "//img[contains(@src, 'assets/adventIcon-J_CSI7tf.png')]",
     "imgBlumclaimj": "//img[contains(@src, 'jZbQ9kOLRXFPdEYJGo0XbHYnB9ZAyF7T/SPHcDMBOc0H7SRwOM/dIbVeD9qsQNqCSnBQzMlJrw84aP9fuciJovQKgGs3I30pf/1Jpo2qB07CNCoA4hku3u4auUuC0a')]",
+    "getSkinj": "//button[.//span[text()='GET EXCLUSIVE SKIN']]",
     "111": "00",
     "Find hidden code - watch Bums Show Episode 0": 42858,
     "Find hidden code - watch Bums Show Episode 1": 95065,
