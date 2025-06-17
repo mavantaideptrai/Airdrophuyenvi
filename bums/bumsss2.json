@@ -13,6 +13,7 @@
     "upgradej": "//div[@class='quick-icon' and .//div[@class='label' and text()='UPGRADE']]",
     "hopbianj": "//div[contains(@class, 'game_item_container') and .//span[text()='MYSTERY BOX']]",
     "slotgame": "//div[@class='slot']//img[contains(@src, 'sloticon-uiL6uyZ6.gif')]",
+    "startslot": "//img[@class='start' and contains(@src, '/assets/btn_spin-BiP0SuUQ.png')]",
     "checkbumsss2": "//div[contains(@class, 'quick-icon') and contains(@class, 'special-icon') and .//div[@class='label' and text()='BUMS2.0']]",
     "checkClaimCheckj": "//div[@class='quick-icon' and .//div[@class='label' and text()='SLOT NEW']]",
     "checkClaimCheck_2j": "//div[contains(@class, 'van-popup') and not(contains(@style, 'display: none'))]//button[.//span[text()='Check']]",
