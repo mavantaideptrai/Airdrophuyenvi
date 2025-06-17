@@ -53,6 +53,9 @@
     "bntClaim": "//button[ contains(@class, 'main-button') and contains(@class, 'green-button') and contains(@class, 'rewards-button') and contains(@class, 'flex-full') and not(contains(@class, 'width-100'))]",
     "rocketj": "//button[.//img[contains(@src, 'vrKj53HWhdHFI9X1JAAAAH3RSTlMAIN/AoD/xGBFxWYGtYZTmtut6R8uL') and @alt='rocket']]",
     "shieldj": "//img[contains(@src, 'G6a2G3NgLzDVB4kJCRgT1cIda/DpPMoCU84CixnRExSYEe59fEHEXoymCuhZrOH+hxXYjEcmJ+8KvKcVTti2') and @alt='shield']",
+    "lmao3": "--------------------------------------------",
+    "inboxj": "//a[contains(@class, 'inbox-button') and @href='/inbox']",
+    "claimInboxj": "//button[contains(@class, 'blue-button-diagonal-1')]",
     "999": "00",
     "hahahahhahahah": 33270
 }
