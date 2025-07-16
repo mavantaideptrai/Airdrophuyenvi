@@ -32,7 +32,7 @@
     "betSpin": "//span[contains(@class, 'main-label shadow bet-label') and contains(text(), 'X')]",
     "mystNumber": "//div[contains(@class, 'gate-holder') and contains(@class, 'fade-in')]",
     "lmao2": "--------------------------------------------",
-    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button')]",
+    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@mat-ripple-loader-uninitialized)]",
     "lmao3": "--------------------------------------------",
     "giftSpin": "//div[contains(@class, 'bar-target-container')]",
     "lmao4": "--------------------------------------------",
