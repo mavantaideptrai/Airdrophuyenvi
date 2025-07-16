@@ -1,0 +1,19 @@
+{
+    "Mua Script tại": "https://app.gpmautomate.com/store/huyen-vi-airdrop",
+    "Liên hệ": "https://www.facebook.com/Huynh.Huynh.02/",
+    "Tele": "@mavantai_deptrai",
+    "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
+    "Checked": "0",
+    "Code_SCR": "115",
+    "Destroy": "00",
+    "StopEnd": "0",
+    "9": "00",
+    "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
+    "Homej": "//a[@href='/'] | //a[contains(@href, '/?tgWebAppStartParam')] | //a//img[@src='/assets/img/hammer.png']",
+    "bntX":"//img[contains(@src, 'x-button.png') and @alt='close'] | //img[contains(@src, 'iVBORw0KGgoAAAANSUhEUgAAAEkAAABJCAMAAABGrfvuAAAA21BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA') and @alt='close']",
+    "bntDaiLyWheel": "//img[@src='/assets/img/daily-wheel/wheel-icon.png'] | //img[@alt='daily-wheel']",
+
+
+    "999": "00",
+    "hahahahhahahah": 33270
+}
