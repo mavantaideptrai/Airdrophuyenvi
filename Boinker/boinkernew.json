@@ -21,6 +21,7 @@
     "BtnGreen":"//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@disabled) and not(contains(@class, 'height-100')) and not(contains(@class, 'width-100')) and not(contains(., '$') or contains(., 'INVITE'))]",
     "BtnFreeGird":"//div[contains(@class, 'grid-prizes-container')]//div[@class='milestone-container flex-column justify-center align-center' and not(.//span[contains(text(), '$')])]",
     "BtnFreeGirdChill":"//div[contains(@class, 'grid-container')]//div[@class='milestone-container flex-column justify-center align-center' and not(.//span[contains(text(), '$')])]",
+    "voiz":"//mat-snack-bar-container | //mat-dialog-container[@aria-owns]",
     "lmao1": "--------------------------------------------",
     "limitSpinj": 50,
     "bntSpinj": "//button[contains(@class, 'spin-button')]",
