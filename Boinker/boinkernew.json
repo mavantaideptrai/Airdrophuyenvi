@@ -35,6 +35,9 @@
     "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button')]",
     "lmao3": "--------------------------------------------",
     "giftSpin": "//div[contains(@class, 'bar-target-container')]",
+    "lmao4": "--------------------------------------------",
+    "inboxj": "//a[contains(@class, 'inbox-button')]",
+    "claimInboxj": "//button[contains(@class, 'main-button') and contains(@class, 'blue-button-diagonal-1') and not(@disabled)]",
     "999": "00",
     "hahahahhahahah": 33270
 }
