@@ -24,6 +24,9 @@
     "betSpin": "//span[contains(@class, 'main-label shadow bet-label') and contains(text(), 'X')]",
     "mystNumber": "//div[contains(@class, 'gate-holder') and contains(@class, 'fade-in')]",
     "lmao2": "--------------------------------------------",
+    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button')]",
+    "lmao3": "--------------------------------------------",
+    "giftSpin": "//div[contains(@class, 'bar-target-container')]",
     "999": "00",
     "hahahahhahahah": 33270
 }
