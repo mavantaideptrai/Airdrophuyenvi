@@ -41,6 +41,7 @@
     "lmao5": "--------------------------------------------",
     "menuUpShitj": "//a[contains(@class, 'nav-button') and contains(@class, 'upgrade-boinker') and not(@aria-disabled='true')]",
     "upShitj": "//div[contains(@class, 'upgrade-price-row')] //span[contains(@class, 'currency-label') and not(contains(@class, 'insufficient')) and normalize-space(text()) != '0']",
+    "lfgj": "//button[contains(@class, 'mint-button') and not(@mat-ripple-loader-uninitialized)]",
     "999": "00",
     "hahahahhahahah": 33270
 }
