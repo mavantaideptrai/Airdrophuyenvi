@@ -38,6 +38,9 @@
     "lmao4": "--------------------------------------------",
     "inboxj": "//a[contains(@class, 'inbox-button')]",
     "claimInboxj": "//button[contains(@class, 'main-button') and contains(@class, 'blue-button-diagonal-1') and not(@disabled)]",
+    "lmao5": "--------------------------------------------",
+    "menuUpShitj": "//a[contains(@class, 'nav-button') and contains(@class, 'upgrade-boinker') and not(@aria-disabled='true')]",
+    "upShitj": "//div[contains(@class, 'upgrade-price-row')] //span[contains(@class, 'currency-label') and not(contains(@class, 'insufficient')) and normalize-space(text()) != '0']",
     "999": "00",
     "hahahahhahahah": 33270
 }
