@@ -42,6 +42,11 @@
     "menuUpShitj": "//a[contains(@class, 'nav-button') and contains(@class, 'upgrade-boinker') and not(@aria-disabled='true')]",
     "upShitj": "//div[contains(@class, 'upgrade-price-row')] //span[contains(@class, 'currency-label') and not(contains(@class, 'insufficient')) and normalize-space(text()) != '0']",
     "lfgj": "//button[contains(@class, 'mint-button') and not(@mat-ripple-loader-uninitialized)]",
+    "lmao6": "--------------------------------------------",
+    "earnj": "//a[contains(@class, 'nav-button') and contains(@class, 'earn')]",
+    "bntVerij": "//button[contains(@class, 'main-button') and contains(@class, 'verify-button') and contains(@class, 'rewards-button')]",
+    "bntClaimj": "//button[contains(@class, 'main-button') and contains(@class, 'claim-button') and contains(@class, 'green-button') and contains(@class, 'rewards-button')]",
+    "bntGoj": "//button[contains(@class, 'main-button') and contains(@class, 'mint-button-solid') and contains(@class, 'rewards-button')]",
     "999": "00",
     "hahahahhahahah": 33270
 }
