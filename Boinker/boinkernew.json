@@ -30,7 +30,7 @@
     "bntSpinCanHoldj": "//button[contains(@class, 'spin-button') and not(contains(@class, 'auto-spinning'))]//span[2]",
     "countSpin": "//app-slider//span[@class='ng-star-inserted']",
     "betSpin": "//span[contains(@class, 'main-label shadow bet-label') and contains(text(), 'X')]",
-    "mystNumber": "//div[contains(@class, 'gate-holder') and contains(@class, 'fade-in')]",
+    "mystNumber": "//div[contains(@class, 'gate-view') and not(contains(@class, 'unlocked'))]",
     "lmao2": "--------------------------------------------",
     "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@mat-ripple-loader-uninitialized)]",
     "lmao3": "--------------------------------------------",
