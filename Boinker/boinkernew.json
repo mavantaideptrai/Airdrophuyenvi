@@ -49,6 +49,9 @@
     "bntClaimj": "//button[contains(@class, 'main-button') and contains(@class, 'claim-button') and contains(@class, 'green-button') and contains(@class, 'rewards-button')]",
     "bntGoj": "//button[contains(@class, 'main-button') and contains(@class, 'mint-button-solid') and contains(@class, 'rewards-button')]",
     "closej": "//button[contains(@class, 'mat-mdc-snack-bar-action')]",
+    "lmao7": "--------------------------------------------",
+    "menuGachGachj": "//button[contains(@class, 'header-button') and contains(@class, 'menu-button')]",
+    "connectj": "//button[contains(@class, 'connect-wallet-button')]",
     "999": "00",
     "hahahahhahahah": 33270
 }
