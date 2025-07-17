@@ -12,7 +12,7 @@
     "loadGamej": "//button[contains(@class, 'spin-button')]",
     "bntX": "//img[contains(@src, 'x-button.png') and @alt='close'] | //img[contains(@src, 'iVBORw0KGgoAAAANSUhEUgAAAEkAAABJCAMAAABGrfvuAAAA21BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA') and @alt='close']",
     "popupNoXj": "//div[contains(@class, 'dialog-container') and contains(@class, 'fade-in')]",
-    "backGamej": "//button[@class='page-back-button' and @app-play-sound]",
+    "backGamej": "//button[@class='page-back-button main-element']",
     "bntDaiLyWheel": "//img[@src='/assets/img/daily-wheel/wheel-icon.png'] | //img[@alt='daily-wheel']",
     "lmao0": "--------------------------------------------",
     "bntEventj": "//swiper-slide[contains(@class, 'custom-swiper-slide')]",
