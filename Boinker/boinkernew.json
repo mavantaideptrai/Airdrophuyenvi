@@ -34,7 +34,7 @@
     "mystNumber": "//div[contains(@class, 'gate-view') and not(contains(@class, 'unlocked'))]",
     "mystNumberEnd": "//div[@class='gate-view revealed']",
     "lmao2": "--------------------------------------------",
-    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(@mat-ripple-loader-uninitialized)] | //button[contains(@class, 'main-button') and contains(@class, 'green-button')]",
+    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(contains(@class, 'activate')) and not(@mat-ripple-loader-uninitialized)] | //button[contains(@class, 'main-button') and contains(@class, 'green-button') and not(contains(@class, 'activate'))]",
     "lmao3": "--------------------------------------------",
     "giftSpin": "//div[contains(@class, 'bar-target-container')]",
     "lmao4": "--------------------------------------------",
