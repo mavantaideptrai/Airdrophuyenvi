@@ -34,7 +34,7 @@
     "mystNumber": "//div[contains(@class, 'gate-view') and not(contains(@class, 'unlocked'))]",
     "mystNumberEnd": "//div[@class='gate-view revealed']",
     "lmao2": "--------------------------------------------",
-    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button-v2') and contains(@class, 'flex-column')]",
+    "collectj": "//button[contains(@class, 'main-button') and contains(@class, 'green-button-v2') and contains(@class, 'flex-column')] | //button[ contains(@class, 'main-button') and contains(@class, 'green-button') and contains(@class, 'mdc-button') and contains(@class, 'mat-mdc-button') and contains(@class, 'mat-unthemed') and contains(@class, 'mat-mdc-button-base') ]",
     "lmao3": "--------------------------------------------",
     "giftSpin": "//div[contains(@class, 'bar-target-container')]",
     "lmao4": "--------------------------------------------",
