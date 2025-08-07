@@ -8,6 +8,7 @@
     "Destroy": "00",
     "StopEnd": "0",
     "9": "00",
+    "ifarm":"https://start.boink.meme/",
     "stateBackj": "//div[contains(@class, 'animated-close-icon') and contains(@class, 'state-back')]",
     "loadGamej": "//button[contains(@class, 'spin-button')]",
     "bntX": "//img[contains(@src, 'x-button.png') and @alt='close']| //img[contains(@src, 'VBORw0KGgoAAAANSUhEUgAAAEkAAABJCAMAAABGrfvuAAAA21BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgRj0AAAD///+vKiMcCAfEPTVwIh6oNC3f39') and @alt='close'] | //button[not(ancestor::div[contains(@class, 'tip-cloud') and contains(@class, 'starts-hidden')])]/img[ (contains(@src, 'VBORw0KGgoAAAANSUhEUgAAAEkAAABJCAMAAABGrfvuAAAA21BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgRj0AAAD///+vKiMcCAfEPTVwIh6oNC3f39') or contains(@src, 'iVBORw0KGgoAAAANSUhEUgAAAGwAAABtCAMAAABz5HRaAAABEVBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/i4sAAAD///+vKiMgERGARkbfenp/') ) and @alt='close'] | //div[contains(@class, 'tip-cloud') and contains(@class, 'starts-hidden') and contains(@class, 'visible')]//button[img[@alt='close']]/img[@alt='close']",
