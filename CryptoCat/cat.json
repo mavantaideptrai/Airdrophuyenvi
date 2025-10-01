@@ -15,7 +15,7 @@
     "kimcuongj":"//a[@href='/bot']//img[contains(@class,'icon-gem')]",
     "startkimcuongj":"//div[contains(@class,'text-gold') and text()='Start farming']",
     "lmao0": "--------------------------------------------",
-   
+    "bntTaskj":"//a[@href='/bot/tasks']",
     "lmao1": "--------------------------------------------",
     
     "lmao2": "--------------------------------------------",
