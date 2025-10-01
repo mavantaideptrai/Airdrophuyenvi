@@ -17,6 +17,7 @@
     "lmao0": "--------------------------------------------",
     "bntTaskj":"//a[@href='/bot/tasks']",
     "lamTask":"//img[@src='/icons/arrow_right.svg']",
+    "clickTaskj":"//a[normalize-space(text())='Subscribe']",
     "lmao1": "--------------------------------------------",
     
     "lmao2": "--------------------------------------------",
