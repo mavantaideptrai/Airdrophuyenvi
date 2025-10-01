@@ -23,6 +23,12 @@
     "maxTakj":"15",
     "lmao1": "--------------------------------------------",
     "bntUpgrade":"//a[@href='/bot/farming-boosts']",
+    "cryptoEducationj":"//div[contains(@class,'selector-btn') and contains(text(),'Crypto Education')]",
+    "lifelikeTechnologyj":"//div[contains(@class,'selector-btn') and contains(text(),'Lifelike Technology')]",
+    "cryptoTechnology":"//div[contains(@class,'selector-btn') and contains(text(),'Crypto Technology')]",
+    "upLV":"//button[contains(@class, 'farm-modal-upgrade-btn') and contains(., 'Upgrade')]",
+    "upCardLV":"//div[contains(@class,'farm-modal-upgrade-btn-container')]/button[normalize-space(text())='Upgrade']",
+
     "lmao2": "--------------------------------------------",
    
     "lmao5": "--------------------------------------------",
