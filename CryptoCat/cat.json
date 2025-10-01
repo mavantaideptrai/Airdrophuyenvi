@@ -8,7 +8,7 @@
     "Destroy": "00",
     "StopEnd": "0",
     "9": "00",
-    "ifarm":"https://bot.cryptocat.io/",
+    "ifarm":"//iframe[contains(@src, 'https://bot.cryptocat.io/')]",
     "loadGamej": "//button[contains(@class,'cat-btn') and text()='Skip'] | //div[contains(@class,'clicker__cat__picture')]",
     "skipj":"//button[contains(@class,'cat-btn') and text()='Skip']",
     "lmao": "--------------------------------------------",
