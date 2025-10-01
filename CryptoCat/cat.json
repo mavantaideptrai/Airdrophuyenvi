@@ -12,7 +12,8 @@
     "loadGamej": "//button[contains(@class,'cat-btn') and text()='Skip'] | //div[contains(@class,'clicker__cat__picture')]",
     "skipj":"//button[contains(@class,'cat-btn') and text()='Skip']",
     "lmao": "--------------------------------------------",
-
+    "kimcuongj":"//a[@href='/bot']//img[contains(@class,'icon-gem')]",
+    "startkimcuongj":"//div[contains(@class,'text-gold') and text()='Start farming']",
     "lmao0": "--------------------------------------------",
    
     "lmao1": "--------------------------------------------",
