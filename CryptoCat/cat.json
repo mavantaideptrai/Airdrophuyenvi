@@ -22,7 +22,7 @@
     "x":"//div[@class='modal-container' and contains(@style,'display: block')]//img[contains(@src,'close')]",
     "maxTakj":"15",
     "lmao1": "--------------------------------------------",
-    
+    "bntUpgrade":"//a[@href='/bot/farming-boosts']",
     "lmao2": "--------------------------------------------",
    
     "lmao5": "--------------------------------------------",
