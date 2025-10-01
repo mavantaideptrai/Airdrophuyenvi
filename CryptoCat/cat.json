@@ -20,6 +20,7 @@
     "clickTaskj":"//a[normalize-space(text())='Subscribe']",
     "checkj":"//div[normalize-space(text())='Check']",
     "x":"//div[@class='modal-container' and contains(@style,'display: block')]//img[contains(@src,'close')]",
+    "maxTakj":"15",
     "lmao1": "--------------------------------------------",
     
     "lmao2": "--------------------------------------------",
