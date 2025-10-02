@@ -30,7 +30,12 @@
     "upCardLV":"//div[contains(@class,'farm-modal-upgrade-btn-container')] //button[contains(@class,'farm-modal-upgrade-btn') and not(@disabled)]",
 
     "lmao2": "--------------------------------------------",
-   
+    "bntStakingj":"//a[@href='/bot/staking']",
+    "threeDaysj":"//div[normalize-space(text())='3 days']",
+    "hainam":"//a[contains(text(),'25')]",
+    "nammuoi":"//a[contains(text(),'50')]",
+    "mottram":"//a[contains(text(),'100')]",
+    "nextj":"//button[contains(@class,'modal-btn') and normalize-space(text())='Next']",
     "lmao5": "--------------------------------------------",
     
     "lmao6": "--------------------------------------------",
