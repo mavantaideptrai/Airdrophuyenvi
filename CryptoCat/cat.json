@@ -17,7 +17,7 @@
     "lmao0": "--------------------------------------------",
     "bntTaskj":"//a[@href='/bot/tasks']",
     "lamTask":"//img[@src='/icons/arrow_right.svg']",
-    "clickTaskj":"//a[normalize-space(text())='Subscribe']",
+    "clickTaskj":"//a[normalize-space(text())='Subscribe' or normalize-space(text())='Give it a like']",
     "checkj":"//div[normalize-space(text())='Check']",
     "x":"//div[@class='modal-container' and contains(@style,'display: block')]//img[contains(@src,'close')]",
     "maxTakj":"15",
