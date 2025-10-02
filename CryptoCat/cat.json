@@ -26,7 +26,7 @@
     "cryptoEducationj":"//div[contains(@class,'selector-btn') and contains(text(),'Crypto Education')]",
     "lifelikeTechnologyj":"//div[contains(@class,'selector-btn') and contains(text(),'Lifelike Technology')]",
     "cryptoTechnology":"//div[contains(@class,'selector-btn') and contains(text(),'Crypto Technology')]",
-    "upLV":"//button[contains(@class, 'farm-modal-upgrade-btn') and contains(., 'Upgrade')]",
+    "upLV":"//button[contains(@class,'farm-card-upgrade-btn') and not(contains(@class,'inactive'))]",
     "upCardLV":"//div[contains(@class,'farm-modal-upgrade-btn-container')] //button[contains(@class,'farm-modal-upgrade-btn') and not(@disabled)]",
 
     "lmao2": "--------------------------------------------",
