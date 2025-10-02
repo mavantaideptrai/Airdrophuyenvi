@@ -37,7 +37,7 @@
     "mottram":"//a[contains(text(),'100')]",
     "nextj":"//button[contains(@class,'modal-btn') and normalize-space(text())='Next']",
     "lmao5": "--------------------------------------------",
-    
+    "bntSettingj":"//div[contains(@class,'shaped-btn-cog')]",
     "lmao6": "--------------------------------------------",
     
     "lmao7": "--------------------------------------------",
