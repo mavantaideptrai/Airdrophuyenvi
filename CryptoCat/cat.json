@@ -38,6 +38,7 @@
     "nextj":"//button[contains(@class,'modal-btn') and normalize-space(text())='Next']",
     "lmao5": "--------------------------------------------",
     "bntSettingj":"//div[contains(@class,'shaped-btn-cog')]",
+    "bntConWalletj":"//button[.//div[normalize-space(text())='Connect Wallet']]",
     "lmao6": "--------------------------------------------",
     
     "lmao7": "--------------------------------------------",
