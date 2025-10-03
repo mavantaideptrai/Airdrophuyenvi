@@ -1,0 +1,29 @@
+{
+    "Mua Script tại": "https://app.gpmautomate.com/store/huyen-vi-airdrop",
+    "Liên hệ": "https://www.facebook.com/Huynh.Huynh.02/",
+    "Tele": "@mavantai_deptrai",
+    "Vào đây làm gì": "Mua sờ kíp thì liên hệ nhé",
+    "Checked": "0",
+    "Code_SCR": "200",
+    "Destroy": "00",
+    "StopEnd": "0",
+    "9": "00",
+    "ifarm":"//iframe[contains(@src, 'https://twa.flpp.io/')]",
+    "loadGamej": "//img[contains(@class,'chakra-image') and contains(@class,'css-ute3oh') and starts-with(@src,'https://minio.twa.flpp.io')]",
+    "skipj":"//img[contains(@alt,'Story')]",
+    "namj":"//img[@src='https://minio.twa.flpp.io/storage/level/7owpd7xBXBFXtR5ReFPGAvZ5AsZxPSmMWSAxVUQ6.webp']",
+    "nuj":"//img[@src='https://minio.twa.flpp.io/storage/level/HgR2MhZE3PP7jddQ1aAV6fRm8nMyK9aH7EfYY0Vp.webp']",
+    "donej":"//button[contains(@class,'theme-button-custom') and normalize-space(text())='Done']",
+    "claimj":"//button[@class='theme-button-custom theme-button-custom css-1y1we2j' and text()='Claim']",
+    "mainj":"//div[@class='css-1htq8ya']//p[text()='Main']",
+    "lmao0": "--------------------------------------------",
+
+    "lmao2": "--------------------------------------------",
+
+    "lmao6": "--------------------------------------------",
+    
+    "lmao7": "--------------------------------------------",
+  
+    "999": "00",
+    "hahahahhahahah": 33270
+}
