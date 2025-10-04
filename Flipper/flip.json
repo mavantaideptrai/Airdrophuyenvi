@@ -21,6 +21,7 @@
     "bntTaskj":"//button[@data-value='activity']",
     "clickTaskj":"//*[local-name()='path'][contains(@d, 'M4.29289 14.7071C3.90237 14.3166')]/ancestor::*[local-name()='div'][1]",
     "dautichj":"//*[local-name()='path'][contains(@d, 'M0 10.5C0 4.97715 4.47715 0.5 10 0.5C15.5228 0.5 20 4.97715 20 10.5C20 16.0228 15.5228 20.5 10')]/ancestor::*[local-name()='div'][1]",
+    "notTaskj":"//div[contains(@class, 'theme-drawer__header') and h2[normalize-space(text())='Join telegram channel']]",
     "goj":"//button[contains(@class, 'theme-button-custom') and normalize-space(.)='Go' and not(@disabled)]",
     "checkj":"//button[contains(@class, 'theme-button-custom') and normalize-space(.)='Check' and not(@disabled)]",
     "xj":"//*[local-name()='path'][contains(@d, 'M3.22699 3.22748C3.51989 2.93459 3.99476')]/ancestor::*[local-name()='button'][1]",
