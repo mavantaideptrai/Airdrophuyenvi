@@ -9,7 +9,7 @@
     "StopEnd": "0",
     "9": "00",
     "ifarm":"//iframe[contains(@src, 'https://twa.flpp.io/')]",
-    "loadGamej": "//img[contains(@class,'chakra-image') and contains(@class,'css-ute3oh') and starts-with(@src,'https://minio.twa.flpp.io')] | //img[contains(@alt,'Story')] | //button[@class='theme-button-custom theme-button-custom css-1y1we2j' and text()='Claim']",
+    "loadGamej": "//img[contains(@class,'chakra-image') and contains(@class,'css-ute3oh') and starts-with(@src,'https://minio.twa.flpp.io')] | //img[contains(@alt,'Story')] | //button[@class='theme-button-custom theme-button-custom css-1y1we2j' and text()='Claim'] | //img[@src='https://minio.twa.flpp.io/storage/level/7owpd7xBXBFXtR5ReFPGAvZ5AsZxPSmMWSAxVUQ6.webp']",
     "skipj":"//img[contains(@alt,'Story')]",
     "namj":"//img[@src='https://minio.twa.flpp.io/storage/level/7owpd7xBXBFXtR5ReFPGAvZ5AsZxPSmMWSAxVUQ6.webp']",
     "nuj":"//img[@src='https://minio.twa.flpp.io/storage/level/HgR2MhZE3PP7jddQ1aAV6fRm8nMyK9aH7EfYY0Vp.webp']",
