@@ -26,7 +26,10 @@
     "checkj":"//button[contains(@class, 'theme-button-custom') and normalize-space(.)='Check' and not(@disabled)]",
     "xj":"//*[local-name()='path'][contains(@d, 'M3.22699 3.22748C3.51989 2.93459 3.99476')]/ancestor::*[local-name()='button'][1]",
     "lmao2": "--------------------------------------------",
-
+    "bntTechj":"//button[@data-value='Technologies']",
+    "bntTradingj":"//button[@data-value='Trading and investment']",
+    "bntMarketj":"//button[@data-value='Market tools']",
+    "bntAIj":"//button[@data-value='AI Trading']",
     "lmao6": "--------------------------------------------",
     
     "lmao7": "--------------------------------------------",
