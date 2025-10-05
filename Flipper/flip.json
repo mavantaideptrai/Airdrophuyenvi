@@ -30,6 +30,7 @@
     "bntTradingj":"//button[@data-value='Trading and investment']",
     "bntMarketj":"//button[@data-value='Market tools']",
     "bntAIj":"//button[@data-value='AI Trading']",
+    "subSubj":"//button[@data-scope='tabs' and .//p]",
     "lmao6": "--------------------------------------------",
     
     "lmao7": "--------------------------------------------",
