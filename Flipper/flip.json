@@ -36,9 +36,12 @@
     "studyj":"//button[contains(@class, 'theme-button-custom') and contains(text(), 'Study')]",
     "doneUpj":"//button[contains(@class, 'theme-button-custom') and text()='Done']",
     "lmao6": "--------------------------------------------",
-    
+    "gamej":"//div[@class='css-1htq8ya']//p[text()='Flipper']",
+    "longj":"//button[contains(@class, 'theme-button-custom') and contains(@class, 'css-18lyppj') and contains(normalize-space(.), 'Up')]",
+    "short":"//button[contains(@class, 'theme-button-custom') and contains(normalize-space(.), 'Down')]",
+    "claimGamej":"//button[normalize-space(text())='Claim']",
+    "lossj":"//button[normalize-space(text())='Ok']",
     "lmao7": "--------------------------------------------",
-  
     "999": "00",
     "hahahahhahahah": 33270
 }
