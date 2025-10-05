@@ -33,7 +33,7 @@
     "subSubj":"//button[@data-scope='tabs' and .//p]",
     "buyj":"//button[contains(@class, 'theme-button-custom') and not(contains(@class, 'css-13tv2e6')) and .//p[contains(text(), 'Buy')]]",
     "upgradej":"//button[contains(@class, 'theme-button-custom') and not(contains(@class, 'css-tdxsv')) and .//div[contains(text(), 'Upgrade')]]",
-    "studyj":"//button[contains(@class, 'theme-button-custom') and .//p[contains(text(), 'Study')]]",
+    "studyj":"//button[contains(@class, 'theme-button-custom') and contains(text(), 'Study')]",
     "doneUpj":"//button[contains(@class, 'theme-button-custom') and text()='Done']",
     "lmao6": "--------------------------------------------",
     
