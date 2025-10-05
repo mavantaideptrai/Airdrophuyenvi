@@ -31,6 +31,10 @@
     "bntMarketj":"//button[@data-value='Market tools']",
     "bntAIj":"//button[@data-value='AI Trading']",
     "subSubj":"//button[@data-scope='tabs' and .//p]",
+    "buyj":"//button[contains(@class, 'theme-button-custom') and .//p[contains(text(), 'Buy')]]",
+    "upgradej":"//button[contains(@class, 'theme-button-custom') and .//p[contains(text(), 'Upgrade')]]",
+    "studyj":"//button[contains(@class, 'theme-button-custom') and .//p[contains(text(), 'Study')]]",
+    "doneUpj":"//button[contains(@class, 'theme-button-custom') and text()='Done']",
     "lmao6": "--------------------------------------------",
     
     "lmao7": "--------------------------------------------",
