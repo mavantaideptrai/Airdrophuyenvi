@@ -36,7 +36,7 @@
     "studyj":"//button[contains(@class, 'theme-button-custom') and contains(text(), 'Study')]",
     "doneUpj":"//button[contains(@class, 'theme-button-custom') and text()='Done']",
     "lmao6": "--------------------------------------------",
-    "gamej":"//div[@class='css-efj4on']//p[text()='Flipper']",
+    "gamej":"//div[starts-with(@class, 'css-')]/p[normalize-space(.)='Flipper']",
     "longj":"//button[contains(@class, 'theme-button-custom') and contains(@class, 'css-18lyppj') and contains(normalize-space(.), 'Up')]",
     "shortj":"//button[contains(@class, 'theme-button-custom') and contains(normalize-space(.), 'Down')]",
     "claimGamej":"//button[normalize-space(text())='Claim']",
