@@ -42,6 +42,7 @@
     "claimGamej":"//button[normalize-space(text())='Claim']",
     "lossj":"//button[normalize-space(text())='Ok']",
     "lmao7": "--------------------------------------------",
+    "banbej":"//div[starts-with(@class, 'css-')]/p[normalize-space(.)='Friends']",
     "999": "00",
     "hahahahhahahah": 33270
 }
