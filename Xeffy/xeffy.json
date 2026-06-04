@@ -12,5 +12,6 @@
     "dapAnQuiz": "//label[contains(@class,'flex') and contains(@class,'items-center') and contains(@class,'gap-3')]",
     "submitQuiz": "//button[@type='submit' and contains(@class,'tap-press') and contains(@class,'w-full')]",
     "doneQuiz": "//button[normalize-space()='Done']",
+    "checkUp": 1,
     "bntInsightsj":"//p[text()='Insights']"
   }
