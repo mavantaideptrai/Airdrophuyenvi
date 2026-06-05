@@ -15,5 +15,6 @@
     "pass": "//input[@id='jf-input-password'] | //p[contains(@class,'line-clamp-4') and contains(@class,'overflow-hidden')]",
     "inPass": "//input[@id='jf-input-password']",
     "loginInX": "//input[@id='jf-input-password']/following::div[contains(@class,'jfa278c0') and contains(@class,'jqjp5430')][1]",
+    "checkUp": 1,
     "bntInsightsj":"//p[text()='Insights']"
   }
