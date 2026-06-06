@@ -15,6 +15,8 @@
     "passw": "//input[@id='jf-input-password'] | //p[contains(@class,'line-clamp-4') and contains(@class,'overflow-hidden')]",
     "inPass": "//input[@id='jf-input-password']",
     "loginInX": "//input[@id='jf-input-password']/following::div[contains(@class,'jfa278c0') and contains(@class,'jqjp5430')][1]",
+    "webIcloudCode": "https://getcodex.online/",
+    "webDongVanfb": "https://dongvanfb.net/get_code_mail/",
     "checkUp": 2,
     "bntInsightsj":"//p[text()='Insights']"
   }
