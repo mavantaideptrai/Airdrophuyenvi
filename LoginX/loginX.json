@@ -18,7 +18,7 @@
     "webIcloudCode": "https://getcodex.online/",
     "webDongVanfb": "https://dongvanfb.net/get_code_mail/",
     "dauTich": "//div[contains(@class,'swal2-success-ring')]",
-    "codeXVeriMail": "(//tr[contains(@id,'email_')]//td[5]//span[string-length(normalize-space()) > 0 and translate(normalize-space(), '0123456789', '') = ''])[1]",
+    "codeXVeriMailWeb": "(//tr[contains(@id,'email_')]//td[5]//span[string-length(normalize-space()) > 0 and translate(normalize-space(), '0123456789', '') = ''])[1]",
     "checkUp": 2,
     "bntInsightsj":"//p[text()='Insights']"
   }
