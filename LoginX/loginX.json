@@ -18,6 +18,8 @@
     "webIcloudCode": "https://getcodex.online/",
     "apiWebDongVan": "0",
     "webDongVanfb": "https://dongvanfb.net/get_code_mail/",
+    "waintCodeMailMin": "10000",
+    "waintCodeMailMax": "20000",
     "dauTich": "//div[contains(@class,'swal2-success-ring')]",
     "codeXVeriMailWeb": "(//tr[contains(@id,'email_')]//td[5]//span[string-length(normalize-space()) > 0 and translate(normalize-space(), '0123456789', '') = ''])[1]",
     "checkUp": 2,
