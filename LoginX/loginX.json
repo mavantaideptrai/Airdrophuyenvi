@@ -16,6 +16,7 @@
     "inPass": "//input[@id='jf-input-password']",
     "loginInX": "//input[@id='jf-input-password']/following::div[contains(@class,'jfa278c0') and contains(@class,'jqjp5430')][1]",
     "webIcloudCode": "https://getcodex.online/",
+    "apiWebDongVan": "0",
     "webDongVanfb": "https://dongvanfb.net/get_code_mail/",
     "dauTich": "//div[contains(@class,'swal2-success-ring')]",
     "codeXVeriMailWeb": "(//tr[contains(@id,'email_')]//td[5]//span[string-length(normalize-space()) > 0 and translate(normalize-space(), '0123456789', '') = ''])[1]",
