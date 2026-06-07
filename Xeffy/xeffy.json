@@ -13,6 +13,7 @@
     "dongBang": "//div[normalize-space()='Your account is frozen']",
     "bntPlay": "(//button[contains(@class,'primary') and .//span[normalize-space()='Play']])[last()]",
     "bntConnectX": "//button[contains(concat(' ', normalize-space(@class), ' '), ' btn-primary ') and normalize-space()='Connect X']",
+    "bntConnectXOutIfram": "//button[contains(@class,'fluid') and normalize-space()='Connect with X']",
     "authX": "(//button[@data-testid='OAuth_Consent_Button' and .//span[normalize-space()='Authorize app']])[last()]",
     "loginAuthX": "//span[normalize-space()='Log in']/ancestor::*[self::button or self::a or @role='button'][1]",
     "next_of_done": "//button[contains(@class,'bg-transparent') and normalize-space()='Join server'] | //button[contains(@class,'btn-primary') and normalize-space()='Next'] | //button[contains(@class,'btn-primary') and normalize-space()='Done']",
