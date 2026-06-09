@@ -17,6 +17,7 @@
     "authX": "(//button[@data-testid='OAuth_Consent_Button' and .//span[normalize-space()='Authorize app']])[last()]",
     "loginAuthX": "//span[normalize-space()='Log in']/ancestor::*[self::button or self::a or @role='button'][1]",
     "next_of_done": "//button[contains(@class,'bg-transparent') and normalize-space()='Join server'] | //button[contains(@class,'btn-primary') and normalize-space()='Next'] | //button[contains(@class,'btn-primary') and normalize-space()='Done']",
+    "missStartGame": "//button[@type='button' and normalize-space()='Open on X'] | //button[contains(@class,'bg-transparent') and normalize-space()='Join channel'] | //button[contains(@class,'bg-transparent') and normalize-space()='Join server']",
     "waitMiss": "//button[@type='button' and contains(@class,'btn-primary') and normalize-space()='Join'] | //button[contains(@class,'btn-primary') and normalize-space()='GO'] | //button[@type='button' and contains(@class,'btn-primary') and normalize-space()='Verify'] | //div[contains(@class,'shrink-0')]//span[normalize-space()='Done']",
     "dapAnQuiz": "//label[contains(@class,'flex') and contains(@class,'items-center') and contains(@class,'gap-3')]",
     "submitQuiz": "//button[@type='submit' and contains(@class,'tap-press') and contains(@class,'w-full')]",
