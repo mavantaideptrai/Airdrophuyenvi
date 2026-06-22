@@ -12,5 +12,5 @@
     "keyReco": "//p[contains(@class,'text-default')]",
     "btnConKey": "//button[contains(@class,'recovery-phrase__footer--button')]",
     "rollKeyRe": "//div[contains(@class,'recovery-phrase__text') and not(@disabled) and not(@aria-disabled='true') and not(contains(@class,'disabled')) ]//p[contains(@class,'recovery-phrase__word-index')]",
-    "xinchao":"2"
+    "xinchao":"1"
   }
