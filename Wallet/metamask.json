@@ -1,5 +1,16 @@
 {
     "Checked": "0",
+    "timeWaintOut": "11",
     "btnTaoVi": "//button[@data-testid='onboarding-create-wallet']",
+    "btnMaBiMat": "//button[@data-testid='onboarding-create-with-srp-button']",
+    "iptPassCreateNew": "//input[@data-testid='create-password-new-input']",
+    "iptPassConfirm": "//input[@data-testid='create-password-confirm-input']",
+    "iptPassTerms": "//input[@id='create-password-terms']",
+    "btnSumPass": "//button[@data-testid='create-password-submit' and not(@disabled)]",
+    "btnDeSau": "//button[@data-testid='passkey-maybe-later-button']",
+    "btnConMat": "//div[@data-testid='recovery-phrase-reveal']",
+    "keyReco": "//p[contains(@class,'text-default')]",
+    "btnConKey": "//button[contains(@class,'recovery-phrase__footer--button')]",
+    "rollKeyRe": "//div[contains(@class,'recovery-phrase__text') and not(@disabled) and not(@aria-disabled='true') and not(contains(@class,'disabled')) ]//p[contains(@class,'recovery-phrase__word-index')]",
     "xinchao":"1"
   }
