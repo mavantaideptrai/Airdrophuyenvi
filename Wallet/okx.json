@@ -17,5 +17,8 @@
     "hanhTrinhWebBa": "//button[@data-testid='onboarding-success-page-confirm-button']",
     "EVM": "/notification.html#/unlock?coinId=3",
     "textAddress": "//div[@data-testid='receive-page-copy-address']",
+    "btnNhanTien": "//div[@data-testid='home-page-action-item-wallet_home_btn_receive']",
+    "btnETH": "//div[@data-testid='home-page-common-coin-list-item' and normalize-space(.)='ETH']",
+    "btnEthereum": "//div[contains(@class,'_wallet-list-token_') and .//div[@data-testid='home-page-common-coin-list-item' and normalize-space(.)='Ethereum']]",
     "xinchao":"2"
   }
