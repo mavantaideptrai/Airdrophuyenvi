@@ -1,5 +1,17 @@
 {
     "Checked": "0",
-
+    "timeWaintOut": "11",
+    "btnTaoVi": "//button[@data-testid='onboard-page-create-wallet-button']",
+    "btnHatGiong": "//div[contains(@class,'wallet-list__cell__icon')][.//i[contains(@class,'okx-wallet-plugin-web3-seed-phrase')]]",
+    "btnPass": "//div[@data-testid='password-type-item']",
+    "btnCon": "//button[@data-testid='okd-button']",
+    "iptPass": "//input[@data-testid='okd-input' and @type='password']",
+    "btnBackUpSeed": "//button[@data-testid='wallet-management-page-backup-mnemonic-button']",
+    "panelBackup": "//div[@data-testid='wallet-management-page-seed-panel-background']",
+    "btnThuLai": "//div[@data-testid='wallet-management-page-seed-panel-retry-button']",
+    "textSeed": "//div[@data-testid='wallet-management-page-seed-panel-word-item']",
+    "btnGhiChu": "//button[@data-testid='wallet-management-page-mnemonic-backup-confirm-button']",
+    "textReSeed": "//div[ contains(@class,'_typography-text-md_') and contains(normalize-space(.),'#') ]",
+    "hanhTrinhWebBa": "//button[@data-testid='onboarding-success-page-confirm-button']",
     "xinchao":"1"
   }
