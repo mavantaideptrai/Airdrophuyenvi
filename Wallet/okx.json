@@ -1,5 +1,6 @@
 {
     "Checked": "0",
+    "zIndex": "//div[@id='ui-ses-iframe-container' and not(contains(@style,'z-index: -''))]",
     "timeWaintOut": "16",
     "iframeOXK": "//iframe[contains(@src, 'ses.html')]",
     "btnTaoVi": "//button[@data-testid='onboard-page-create-wallet-button']",
