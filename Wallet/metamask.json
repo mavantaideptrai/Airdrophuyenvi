@@ -1,0 +1,5 @@
+{
+    "Checked": "0",
+    "btnTaoVi": "//button[@data-testid='onboarding-create-wallet']",
+    "xinchao":"1"
+  }
