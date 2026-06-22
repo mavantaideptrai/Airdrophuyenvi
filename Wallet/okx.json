@@ -9,7 +9,7 @@
     "iptPass": "//input[@data-testid='okd-input' and @type='password']",
     "btnBackUpSeed": "//button[@data-testid='wallet-management-page-backup-mnemonic-button']",
     "panelBackup": "//div[@data-testid='wallet-management-page-seed-panel-background']",
-    "btnThuLai": "//div[@data-testid='wallet-management-page-seed-panel-retry-button']",
+    "btnThuLai": "//div[contains(@class,'_typography-text-xs_') and contains(@class,'_typography-text-default_') and contains(@class,'_retry_')]",
     "textSeed": "//div[contains(@class,'_word_1g6hy_8')]",
     "btnGhiChu": "//button[@data-testid='wallet-management-page-mnemonic-backup-confirm-button']",
     "textReSeed": "//div[ contains(@class,'_typography-text-md_') and contains(normalize-space(.),'#') ]",
