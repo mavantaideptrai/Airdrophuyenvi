@@ -1,6 +1,6 @@
 {
     "Checked": "0",
-    "timeWaintOut": "11",
+    "timeWaintOut": "16",
     "iframeOXK": "//iframe[contains(@src, 'ses.html')]",
     "btnTaoVi": "//button[@data-testid='onboard-page-create-wallet-button']",
     "btnHatGiong": "//div[contains(@class,'wallet-list__cell__icon')][.//i[contains(@class,'okx-wallet-plugin-web3-seed-phrase')]]",
