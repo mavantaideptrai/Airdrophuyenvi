@@ -14,5 +14,5 @@
     "btnGhiChu": "//button[@data-testid='wallet-management-page-mnemonic-backup-confirm-button']",
     "textReSeed": "//div[ contains(@class,'_typography-text-md_') and contains(normalize-space(.),'#') ]",
     "hanhTrinhWebBa": "//button[@data-testid='onboarding-success-page-confirm-button']",
-    "xinchao":"1"
+    "xinchao":"2"
   }
